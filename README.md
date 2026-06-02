@@ -95,4 +95,3 @@ http://localhost:8080/SecureCare
 ## Author
 
 Indhu P  
-Final Year Project
