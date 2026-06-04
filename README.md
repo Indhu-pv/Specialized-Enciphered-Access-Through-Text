@@ -1,4 +1,4 @@
-# Specialized Enciphered Access Through Text Steganography
+# Specialized Enciphered Access Through Text Steganography 
 
 A secure healthcare document management system that protects sensitive patient medical reports using Text Steganography, Encryption, and Role-Based Access Control.
 
